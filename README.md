@@ -8,3 +8,5 @@
 - 📫 How to reach me: X @alukwejoel
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i am a bioinformatics enthusiast
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelALukwe)](https://github.com/JoelALukwe/github-readme-stats)
