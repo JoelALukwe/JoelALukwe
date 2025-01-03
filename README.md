@@ -7,7 +7,7 @@
 - 💬 Ask me about backend software engineering.
 - 📫 How to reach me: X @alukwejoel
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i am a bioinformatics enthusiast
+- ⚡ Fun fact: i orbserve and remember everything but like to pretend i do not 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoelALukwe)](https://github.com/JoelALukwe/github-readme-stats)
 
